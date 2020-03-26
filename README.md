@@ -59,7 +59,8 @@ Fast-forward
  1 file changed, 1 insertion(+)
  create mode 100644 feature_1
 
-$ # new we can see that both the feature and develop branches are pointing to the same commit (which is now the HEAD of the develop branch)
+$ # now we can see that both the feature and develop branches are pointing
+$ # to the same commit (which is now the HEAD of the develop branch).
 $ git log
 commit fc2ae6bf5fbbdbb6f0a1bcaaa93213a99b2743bf (HEAD -> develop, feature/feature_1)
 Author: Idan Moral <idan22moral@gmail.com>
