@@ -1,5 +1,5 @@
 # Branches Workflow Example
-This repository is an example for the workflow of Branches in git,
+This repository is an example for the workflow of branches in git,
 mainly meant for Magshimim students in 2nd year.
 
 Follow this Gist to see the commands I used:
